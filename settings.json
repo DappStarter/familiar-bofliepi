@@ -1,0 +1,17 @@
+{
+    "name": "JustCoin",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/react": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "JustCoin",
+        "/category/asset_value_tracking/core-token/symbol": "JUST",
+        "/category/asset_value_tracking/core-token/supply": "10000000",
+        "/category/nft/core-composable_nft": true,
+        "/category/nft/core-composable_nft/template": "collectible",
+        "/category/asset_value_tracking/core-token/decimals": "18",
+        "/category/access_control/core-contract_runstate": true,
+        "/category/access_control/core-administrator_role": true
+    }
+}
